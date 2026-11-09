@@ -15,4 +15,6 @@
 лежат в диапазоне [t1, t2] и расположенных после первого элемента с
 чётным значением. Если нет чётных элементов, искать с начала массива.
 
++ Защита(main-2.c)
+  
 This project is licensed under the MIT License. See the LICENSE file for details.
